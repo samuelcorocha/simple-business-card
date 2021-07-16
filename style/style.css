@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+
+.background {
+    background-image: url("../assets/backgorund.png");
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    padding: 1px 20px;
+    margin: auto;
+    margin-top: 10%;
+}
+
+.background h1 {
+    font-family: "Bebas Neue", Arial;
+    text-transform: uppercase;
+}
+
+.background a {
+    text-decoration: none;
+    color: black;
+}
+
+ li {
+    font-family: Roboto, Arial;
+    text-transform: uppercase;
+    padding: 0px;
+}
+
+.insta {
+    list-style-image: url("../assets/Insta.png");
+}
+
+.twitter {
+    list-style-image: url("../assets/Twitter.png");
+}
+
+.youtube {
+    list-style-image: url("../assets/Youtube.png");
+}
